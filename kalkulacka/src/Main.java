@@ -8,6 +8,9 @@ public class Main {
 
         int a = 5;
         System.out.println((a + 5));
+
+        int b = 7;
+        System.out.println((b + 7));
     }
 }
 
