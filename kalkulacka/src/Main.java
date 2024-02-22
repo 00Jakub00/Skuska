@@ -11,6 +11,8 @@ public class Main {
 
         int b = 7;
         System.out.println((b + 7));
+
+        System.out.println("zuvacka!!");
     }
 }
 
