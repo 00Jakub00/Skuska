@@ -5,6 +5,9 @@ public class Main {
         System.out.println("YAKO");
 
         System.out.println("EDIT!!");
+
+        int a = 5;
+        System.out.println((a + 5));
     }
 }
 
